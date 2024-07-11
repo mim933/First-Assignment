@@ -77,9 +77,8 @@ text-decoration: none;
 .main{
     padding: 0 100px;
     margin-bottom: 50px;
-    background-color: #FAFAFB;
-
 }
+
 .main .main-content{
     display: flex;
     align-items: center;
