@@ -77,6 +77,7 @@ text-decoration: none;
 .main{
     padding: 0 100px;
     margin-bottom: 50px;
+    background-color: #FAFAFB;
 
 }
 .main .main-content{
@@ -98,7 +99,7 @@ text-decoration: none;
 }
  .main-container{
     text-align: center;
-    margin-bottom:20px ;
+    margin-bottom:20px;
  }
 .main-title{
 color: rgb(13, 19, 33);
