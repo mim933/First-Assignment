@@ -44,7 +44,7 @@ margin-bottom:24px ;
 
 }
 #hero .hero-content .sub-title{
-    color: rgb(13, 19, 33);
+color: rgb(13, 19, 33);
 font-family: Azeret Mono;
 font-size: 14px;
 font-weight: 400;
@@ -71,4 +71,31 @@ line-height: 16px;
 border: none;
 
 
+}
+/* main styles start here */
+.main{
+    background: rgba(13, 19, 33, 0.02);
+    border-radius: 14px;
+    max-width: 900px;
+    margin: 0 auto;
+    
+}
+
+
+.main .main-content .title{
+    margin-top: 131px;
+    color: rgb(13, 19, 33);
+    font-family: Azeret Mono;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 40px;
+    letter-spacing: 0%;
+    text-align: center;
+    /* padding-top:30px ; */
+}
+.main .main-content .subtitle{
+    font-size: 14px;
+    color:rgb(13, 19, 33);;
+    padding:20px 50px;
+   
 }
