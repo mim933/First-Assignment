@@ -70,7 +70,7 @@ background: rgb(13, 19, 33);
 text-align: center;
 line-height: 16px;
 border: none;
-
+text-decoration: none;
 
 }
 /* main styles start here */
@@ -110,6 +110,25 @@ letter-spacing: 0%;
 text-align: center;
 margin-top: 135px;
 margin-bottom: 20px;
+
+}
+.main-subtitle{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 23px;
+letter-spacing: 0%;
+text-align: center;
+}
+.main-para{
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: left;
 }
 
 
